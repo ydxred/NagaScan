@@ -104,3 +104,6 @@ def db_conn():
 * Install MitmProxy certificates for Browser or Mobile per [Instruction](http://docs.mitmproxy.org/en/stable/certinstall.html)
 * Add a proxy you created in your Web Browser or Mobile Wi-Fi
 * Just browse websites from Browser or use APPs from Mobile whatever you like
+ 
+# 相关部署文档
+`https://mp.weixin.qq.com/s/uLyL6WZdoUJjkc1X7e8rKA`
